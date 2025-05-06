@@ -2,6 +2,9 @@
 
 ![image](https://github.com/Ajinkya-Adsule/Deloitte-Data-Analytics-Virtual-Internship-Job-Simulation-at-Forage/blob/8b6501639ed1c3eeb38461881308cf812e6bf4ca/Project%20Files%20%2C%20Data%20Sets%20%2C%20docs/Dellote%20Certificate%20of%20completion.png)
 
+Click to verify : https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/9PBTqmSxAf6zZTseP/io9DzWKe3PTsiS6GG_9PBTqmSxAf6zZTseP_PtkWufsWHAADLBrWc_1746192677334_completion_certificate.pdf
+
+
 This repository contains my submission for the Deloitte STEM Virtual Program. In this program, students are asked to help Daikibo Industrials (a global leader in manufacturing of heavy machinery) with a variety of problems that they are facing.
 
 *💻 Task 01 - Coding*
